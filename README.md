@@ -1,9 +1,9 @@
 # Erudio.HATEOAS
 
-[![NuGet](https://img.shields.io/nuget/v/Erudio.HATEOAS.svg)](https://www.nuget.org/packages/Erudio.HATEOAS)
+[![NuGet](https://img.shields.io/nuget/v/Erudio.HATEOAS.svg)](https://www.nuget.org/packages/Erudio.HATEOAS0101)
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/vandysouza/Erudio.HATEOAS)
-![Last Commit](https://img.shields.io/github/last-commit/vandysouza/Erudio.HATEOAS)
+[![Last Commit](https://img.shields.io/github/last-commit/vandysouza/Erudio.HATEOAS)](https://github.com/vandysouza/Erudio.HATEOAS/commits/main/)
 ![Forks](https://img.shields.io/github/forks/vandysouza/Erudio.HATEOAS)
 ![Stars](https://img.shields.io/github/stars/vandysouza/Erudio.HATEOAS)
 [![.NET 8 continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/vandysouza/Erudio.HATEOAS/actions/workflows/continuous-integration-nuget.yaml/badge.svg)](https://github.com/vandysouza/Erudio.HATEOAS/actions/workflows/continuous-integration-nuget.yaml)
@@ -15,7 +15,7 @@ This is a smart library to implements HATEOAS pattern in your RESTFul API's, imp
 >### 1 - Import Erudio.HATEOAS to your projetct
 #### Import with command line
 ```bash
-Install-Package Erudio.HATEOAS -Version 8.0.202.2
+Install-Package Erudio.HATEOAS -Version 8.0.202.5
 ```
 
 #### Import with nuget package manager
