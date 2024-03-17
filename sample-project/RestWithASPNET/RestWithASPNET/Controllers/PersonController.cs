@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestWithASPNET.Business;
 using RestWithASPNET.Data.VO;
-using RestWithASPNETUdemy.Hypermedia.Filters;
+using Erudio.HATEOAS.Hypermedia.Filters;
 
 namespace RestWithASPNET.Controllers
 {

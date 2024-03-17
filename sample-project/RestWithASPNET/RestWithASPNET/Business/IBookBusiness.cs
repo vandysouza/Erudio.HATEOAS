@@ -1,5 +1,5 @@
 ﻿using RestWithASPNET.Data.VO;
-using RestWithASPNET.Hypermedia.Utils;
+using Erudio.HATEOAS.Hypermedia.Utils;
 
 namespace RestWithASPNET.Business
 {

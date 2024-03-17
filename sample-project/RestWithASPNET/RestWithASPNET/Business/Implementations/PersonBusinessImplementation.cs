@@ -1,6 +1,6 @@
 ﻿using RestWithASPNET.Data.Converter.Implementations;
 using RestWithASPNET.Data.VO;
-using RestWithASPNET.Hypermedia.Utils;
+using Erudio.HATEOAS.Hypermedia.Utils;
 using RestWithASPNET.Repository;
 
 namespace RestWithASPNET.Business.Implementations

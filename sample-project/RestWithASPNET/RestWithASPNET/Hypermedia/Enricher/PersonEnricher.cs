@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RestWithASPNET.Data.VO;
-using RestWithASPNET.Hypermedia.Constants;
-using RestWithASPNET.Hypermedia;
+using Erudio.HATEOAS.Hypermedia.Constants;
+using Erudio.HATEOAS.Hypermedia;
 using System.Text;
 
-namespace RestWithASPNETUdemy.Hypermedia.Enricher
+namespace Erudio.HATEOAS.Hypermedia.Enricher
 {
     public class PersonEnricher : ContentResponseEnricher<PersonVO>
     {

@@ -1,5 +1,5 @@
-﻿using RestWithASPNET.Hypermedia;
-using RestWithASPNETUdemy.Hypermedia.Abstract;
+﻿using Erudio.HATEOAS.Hypermedia;
+using Erudio.HATEOAS.Hypermedia.Abstract;
 
 namespace RestWithASPNET.Data.VO
 {
