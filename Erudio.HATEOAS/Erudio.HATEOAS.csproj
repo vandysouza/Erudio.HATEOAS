@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Erudio.HATEOAS0101</PackageId>
+    <Description>This is a smart library to implements HATEOAS docummentation in your RESTFul API'S</Description>
+    <Copyright>Copyright Erudio Training - Consultoria e Treinamentos em TI LTDA 2024</Copyright>
+    <PackageProjectUrl>https://github.com/vandysouza/Erudio.HATEOAS/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vandysouza/Erudio.HATEOAS/</RepositoryUrl>
+    <PackageTags>HATEOAS</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Version>8.0.202.1</Version>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+
+</Project>
